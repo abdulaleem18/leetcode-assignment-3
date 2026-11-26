@@ -48,9 +48,9 @@ Output: 4
 ## Solution
 
 **Language:** C  
-**Runtime:** 0 ms  
-**Memory:** 8.5 MB  
-**Submitted:** 2026-11-26T20:47:01.557Z  
+**Runtime:** 0 ms (beats 100.00%)  
+**Memory:** 8.9 MB (beats 55.00%)  
+**Submitted:** 2026-11-26T20:47:06.447Z  
 
 ```c
 int searchInsert(int* nums, int numsSize, int target) {
